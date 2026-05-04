@@ -1,17 +1,14 @@
 # 📢 Health Insurance Analysis: Excel-SQL-PowerBI
 
 👉 Tools
-
 Excel,SQL,Power BI
 
 👉 About 
-
 In this project, I created an interactive dashboard to analyze customer, health, and insurance data, helping to identify patterns in medical costs, claims, plan types, and regions.
 
 
 👉 Problem statement
-
- Insurance companies often struggle to understand how customer health conditions, plan types, and regions affect medical costs, claims, and profitability Without proper analysis, it becomes difficult to identify high-risk customers, cost-driving factors, and areas of improvement.
+Insurance companies often struggle to understand how customer health conditions, plan types, and regions affect medical costs, claims, and profitability Without proper analysis, it becomes difficult to identify high-risk customers, cost-driving factors, and areas of improvement.
 
 👉 Objective
 
