@@ -1,4 +1,4 @@
-# Health-Insurance-Analysis-EXcel-SQL-PowerBI
+# Health-Insurance-Analysis-Exel-SQL-PowerBI
 
 **Tools**: Excel,SQL,Power BI
 
