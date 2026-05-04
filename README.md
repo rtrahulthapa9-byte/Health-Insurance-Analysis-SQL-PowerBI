@@ -15,7 +15,8 @@
 **Project Highlights**: 
 - Used **Excel & Power query** to clean and prepare the data.
 - Solved business problems using **SQL queries**.
-- Designed an **interactive dashboard in Power BI** to track key KPIs such as **Total Customers, Claims Paid, Average Premium and Medical Cost**.
+- Designed an **interactive dashboard in Power BI** to track key KPIs such as **Total Customers, Claims Paid,
+  Average Premium and Medical Cost**.
 - Performed **data analysis across multiple tables** (Customer, Health, and Policy data) to uncover meaningful insights.
 - Performed **multi-dimensional analysis** across **regions, plan types, and network tier.**
                         
